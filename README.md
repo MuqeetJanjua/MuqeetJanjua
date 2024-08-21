@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muqeet Ahmad</h1>
 <h3 align="center">Software Engineer</h3>
 
+<hr />
+
 - 🔭 I’m currently working on **Managment Softwares**
 
 - 👯 I’m looking to collaborate on **Long Term Projects**
+
+<hr />
 
 <p align="left">
 </p>
