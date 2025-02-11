@@ -12,7 +12,6 @@
 </ul>
 
 <p><br/></p>
-<p><br/></p>
 
 <h2>📞 Connect with Me</h2>
 <p></p>
@@ -31,7 +30,6 @@
   </a>
 </div>
 
-<p><br/></p>
 <p><br/></p>
 
 <h2>📊 GitHub Stats</h2>
