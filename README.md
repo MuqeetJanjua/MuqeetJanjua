@@ -14,14 +14,6 @@
 <hr />
 
 <h2>📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muqeetjanjua&show_icons=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muqeetjanjua&layout=compact&theme=dracula" height="150" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=MuqeetJanjua&theme=dark" height="150" alt="GitHub Streak" />
-</div>
-
-<hr />
-
 <p align="left">
 </p>
 
