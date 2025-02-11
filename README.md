@@ -1,11 +1,24 @@
 <h1 align="center">Hi 👋, I'm Muqeet Ahmad</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer</h3>
 
 <hr />
 
-- 🔭 I’m currently working on **Managment Softwares**
+<h2>🔥 About Me</h2>
+<ul>
+  <li>🔬 Currently working on <b>Management Softwares</b></li>
+  <li>💡 Passionate about <b>backend development, REST APIs, GraphQL, and cloud solutions</b></li>
+  <li>👥 Open to collaborating on <b>long-term projects</b></li>
+  <li>💌 Reach me at <b>muqeetahmad25@gmail.com</b></li>
+</ul>
 
-- 👯 I’m looking to collaborate on **Long Term Projects**
+<hr />
+
+<h2>📊 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muqeetjanjua&show_icons=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muqeetjanjua&layout=compact&theme=dracula" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=MuqeetJanjua&theme=dark" height="150" alt="GitHub Streak" />
+</div>
 
 <hr />
 
