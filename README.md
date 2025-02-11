@@ -135,5 +135,5 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/MuqeetJanjua/MuqeetJanjua/output/snake.svg" alt="Snake animation" />
+# <img src="https://raw.githubusercontent.com/MuqeetJanjua/MuqeetJanjua/output/snake.svg" alt="Snake animation" />
 
