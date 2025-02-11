@@ -11,7 +11,8 @@
   <li>💌 Reach me at <b>muqeetahmad25@gmail.com</b></li>
 </ul>
 
-<p></p>
+<p><br/></p>
+<p><br/></p>
 
 <h2>📞 Connect with Me</h2>
 <p></p>
@@ -30,7 +31,8 @@
   </a>
 </div>
 
-<p></p>
+<p><br/></p>
+<p><br/></p>
 
 <h2>📊 GitHub Stats</h2>
 <p align="left">
