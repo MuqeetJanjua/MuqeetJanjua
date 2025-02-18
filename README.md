@@ -51,6 +51,52 @@
 
 <br clear="both">
 
+<h2>🚀 Technical Projects</h2>
+
+
+<ul>
+  <li>
+    <strong>GanarPro Sales Automation</strong> (<a href="https://app.ganarpro.com" target="_blank">Live</a>)<br/>
+    - Enterprise sales automation platform<br/>
+    - Stack: Django DRF, React, PostgreSQL, Celery<br/>
+    - Features: Complex CRM, automated reporting, JWT authentication
+  </li>
+  
+  <li>
+    <strong>MovSentry Platform</strong> (<a href="https://admin.movsentry.com" target="_blank">Admin</a>)<br/>
+    - Logistics management system<br/>
+    - Stack: Django ORM, Geospatial APIs, Payment gateway integration<br/>
+    - Features: Real-time tracking, multi-vendor support
+  </li>
+
+  <li>
+    <strong>Medical Certificate System</strong> (<a href="https://e-medicalcertificate.com" target="_blank">Production</a>)<br/>
+    - HIPAA-compliant document management<br/>
+    - Stack: Django, PDF generation, Digital signatures<br/>
+    - Features: QR verification system, audit trails
+  </li>
+  <li>
+    <strong>Express Subscription Manager</strong><br/>
+    - Shopify subscription management system<br/>
+    - Stack: Rails 7, Shopify API, Redis<br/>
+    - Features: Recurring billing, subscription analytics
+  </li>
+
+  <li>
+    <strong>Supplier Sync Application</strong><br/>
+    - Dropshipping inventory synchronization<br/>
+    - Stack: Rails API, Sidekiq, Webhooks<br/>
+    - Features: Bi-directional sync, conflict resolution
+  </li>
+
+  <li>
+    <strong>JSON-LD Schema Generator</strong><br/>
+    - E-commerce SEO optimization tool<br/>
+    - Stack: Rails Engine, Liquid templates<br/>
+    - Features: Dynamic schema generation, Shopify app integration
+  </li>
+</ul>
+
 <h2>🛠 Tech Stack</h2>
 
 <div align="left">
