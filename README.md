@@ -56,25 +56,54 @@
 
 <ul>
   <li>
-    <strong>GanarPro Sales Automation</strong> (<a href="https://app.ganarpro.com" target="_blank">Live</a>)<br/>
-    - Enterprise sales automation platform<br/>
-    - Stack: Django DRF, React, PostgreSQL, Celery<br/>
-    - Features: Complex CRM, automated reporting, JWT authentication
+    <strong>GanarPro</strong> | Full-Stack Developer (2022-Present)<br/>
+    - Developed core features for sales automation platform at <a href="https://app.ganarpro.com" target="_blank">app.ganarpro.com</a><br/>
+    - Technologies: Python/Django, React, AWS, PostgreSQL<br/>
+    - Key Achievement: Reduced API response times by 35% through query optimization
   </li>
   
   <li>
-    <strong>MovSentry Platform</strong> (<a href="https://admin.movsentry.com" target="_blank">Admin</a>)<br/>
-    - Logistics management system<br/>
-    - Stack: Django ORM, Geospatial APIs, Payment gateway integration<br/>
-    - Features: Real-time tracking, multi-vendor support
+    <strong>MovSentry</strong> | Backend Developer (2021-2022)<br/>
+    - Built moving company management system (<a href="https://app.movsentry.com" target="_blank">Customer Portal</a>, <a href="https://admin.movsentry.com" target="_blank">Admin Panel</a>)<br/>
+    - Technologies: Ruby on Rails, PostgreSQL, Mapbox API<br/>
+    - Key Achievement: Implemented real-time vehicle tracking system
   </li>
 
   <li>
-    <strong>Medical Certificate System</strong> (<a href="https://e-medicalcertificate.com" target="_blank">Production</a>)<br/>
-    - HIPAA-compliant document management<br/>
-    - Stack: Django, PDF generation, Digital signatures<br/>
-    - Features: QR verification system, audit trails
+    <strong>La Beau POS Dashboard</strong> (<a href="https://dashboard.labeaupos.com" target="_blank">Live Demo</a>)<br/>
+    - Shop management system with WhatsApp integration<br/>
+    - Contributed: Inventory module & notification system<br/>
+    - Stack: Node.js, React, MongoDB
   </li>
+
+  <li>
+    <strong>E-Medical Certificate Platform</strong> (<a href="https://e-medicalcertificate.com" target="_blank">Production Site</a>)<br/>
+    - Digital medical certificate generation/verification<br/>
+    - Developed: PDF generation engine & validation API<br/>
+    - Stack: Python/FastAPI, PDFKit, QR code system
+  </li>
+
+  <li>
+    <strong>Greater WMS Improvements</strong> (<a href="https://github.com/GreaterWMS/GreaterWMS" target="_blank">Open Source</a>)<br/>
+    - Enhanced warehouse management system features<br/>
+    - Contributions: UI refinements & report generation optimizations<br/>
+    - Stack: Python/Django, Vue.js
+  </li>
+
+   <li>
+    <strong>Nawab Petrol Pump System</strong> (<a href="https://nawab-ps.com" target="_blank">Client Site</a>)<br/>
+    - Custom fuel station management solution<br/>
+    - Features: Inventory tracking & pump monitoring<br/>
+    - Stack: Django REST Framework, React Dashboard
+  </li>
+  
+  <li>
+    <strong>CraftPositions Job Board</strong> (<a href="https://craftpositions.com" target="_blank">Live Site</a>)<br/>
+    - Niche employment platform development<br/>
+    - Implemented: Advanced search filters & applicant tracking<br/>
+    - Stack: Ruby on Rails, Hotwire, PostgreSQL
+  </li>
+  
   <li>
     <strong>Express Subscription Manager</strong><br/>
     - Shopify subscription management system<br/>
