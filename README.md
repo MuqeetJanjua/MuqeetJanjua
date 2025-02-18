@@ -131,44 +131,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C3E6&center=true&vCenter=true&width=500&lines=Full-Stack+Engineering+Showcase;Django+%7C+Rails+%7C+React+%7C+AWS;8+Production+Systems+Deployed" alt="Header Animation">
 </div>
 
----
-
-### 🐍 Django/DRF Ecosystem
-| Project | Duration | Key Contributions | Tech Stack | Impact |
-|---------|----------|-------------------|------------|--------|
-| **[GanarPro Automation](https://app.ganarpro.com)** | 2022-Present | Built core sales automation engine | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-ff1709?logo=django&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white) | ⚡ 35% API perf boost |
-| **[Medical Certificate System](https://e-medicalcertificate.com)** | 2021-2023 | PDF generation engine, validation API | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![PDFKit](https://img.shields.io/badge/PDFKit-FF0000?logo=pdf&logoColor=white) | 🛡️ HIPAA-compliant design |
-| **Nawab Fuel Management** | 2022 | Real-time pump monitoring system | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) | ⛽ 50+ stations deployed |
-
----
-
-### 💎 Ruby on Rails Ecosystem
-| Project | Key Features | Tech Stack | Highlights |
-|---------|--------------|------------|------------|
-| **Express Subscription Manager** | Recurring billing, analytics | ![Rails](https://img.shields.io/badge/Rails-CC0000?logo=rubyonrails&logoColor=white) ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white) | 🔄 10k+ subs processed |
-| **Supplier Sync Engine** | Bi-directional inventory sync | ![Sidekiq](https://img.shields.io/badge/Sidekiq-35495C?logo=rubygems&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) | ⚡ 2s sync intervals |
-| **JSON-LD Generator** | SEO schema builder | ![Liquid](https://img.shields.io/badge/Liquid-222222?logo=shopify&logoColor=white) ![SEO](https://img.shields.io/badge/SEO-0F9D58?logo=google&logoColor=white) | 📈 40% SEO score boost |
-
----
-
-### 🚨 High-Performance Systems
-<div align="left">
-  
-#### 🚚 **MovSentry Logistics Platform**  
-[![Customer Portal](https://img.shields.io/badge/Portal-Live-22C3E6?style=for-the-badge)](https://app.movsentry.com)
-[![Admin Panel](https://img.shields.io/badge/Admin-Live-4CAF50?style=for-the-badge)](https://admin.movsentry.com)  
-**Tech**: ![Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?logo=rubyonrails&logoColor=white) ![PostGIS](https://img.shields.io/badge/PostGIS-336791?logo=postgresql&logoColor=white)  
-**Achievement**: Real-time vehicle tracking with 500ms location updates
-
-#### 🛍️ **La Beau POS Dashboard**  
-[![Live Demo](https://img.shields.io/badge/Shop_Demo-View-FF4088?style=for-the-badge)](https://dashboard.labeaupos.com)  
-**Stack**: ![Node](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
-**Innovation**: WhatsApp integration handling 5k+ daily notifications
-
-</div>
-
----
-
 ### 🛠️ Open Source Contributions
 [![GreaterWMS](https://img.shields.io/badge/GreaterWMS-Contributed-8A2BE2?style=for-the-badge)](https://github.com/GreaterWMS/GreaterWMS)  
 **Improvements**: Warehouse UI overhaul + report optimization  
