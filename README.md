@@ -51,7 +51,7 @@
 
 <br clear="both">
 <!--
-<h2>🚀 Technical Projects</h2>
+<h2>🚀 Technical Projects</h2>-->
 <!--
 <ul>
   <li>
@@ -60,6 +60,7 @@
     - Technologies: Python/Django, React, AWS, PostgreSQL<br/>
     - Key Achievement: Reduced API response times by 35% through query optimization
   </li>
+  -->
 <!--  
   <li>
     <strong>MovSentry</strong> | Backend Developer (2021-2022)<br/>
@@ -67,6 +68,7 @@
     - Technologies: Ruby on Rails, PostgreSQL, Mapbox API<br/>
     - Key Achievement: Implemented real-time vehicle tracking system
   </li>
+  -->
 <!--
   <li>
     <strong>La Beau POS Dashboard</strong> (<a href="https://dashboard.labeaupos.com" target="_blank">Live Demo</a>)<br/>
@@ -74,6 +76,7 @@
     - Contributed: Inventory module & notification system<br/>
     - Stack: Node.js, React, MongoDB
   </li>
+  -->
 <!--
   <li>
     <strong>E-Medical Certificate Platform</strong> (<a href="https://e-medicalcertificate.com" target="_blank">Production Site</a>)<br/>
@@ -81,6 +84,7 @@
     - Developed: PDF generation engine & validation API<br/>
     - Stack: Python/FastAPI, PDFKit, QR code system
   </li>
+  -->
 <!--
   <li>
     <strong>Greater WMS Improvements</strong> (<a href="https://github.com/GreaterWMS/GreaterWMS" target="_blank">Open Source</a>)<br/>
@@ -88,6 +92,7 @@
     - Contributions: UI refinements & report generation optimizations<br/>
     - Stack: Python/Django, Vue.js
   </li>
+  -->
 <!--
    <li>
     <strong>Nawab Petrol Pump System</strong> (<a href="https://nawab-ps.com" target="_blank">Client Site</a>)<br/>
@@ -95,6 +100,7 @@
     - Features: Inventory tracking & pump monitoring<br/>
     - Stack: Django REST Framework, React Dashboard
   </li>
+  -->
   <!--
   <li>
     <strong>CraftPositions Job Board</strong> (<a href="https://craftpositions.com" target="_blank">Live Site</a>)<br/>
@@ -102,6 +108,7 @@
     - Implemented: Advanced search filters & applicant tracking<br/>
     - Stack: Ruby on Rails, Hotwire, PostgreSQL
   </li>
+  -->
   <!--
   <li>
     <strong>Express Subscription Manager</strong><br/>
@@ -109,6 +116,7 @@
     - Stack: Rails 7, Shopify API, Redis<br/>
     - Features: Recurring billing, subscription analytics
   </li>
+  -->
 <!--
   <li>
     <strong>Supplier Sync Application</strong><br/>
@@ -116,6 +124,7 @@
     - Stack: Rails API, Sidekiq, Webhooks<br/>
     - Features: Bi-directional sync, conflict resolution
   </li>
+  -->
 <!--
   <li>
     <strong>JSON-LD Schema Generator</strong><br/>
@@ -124,7 +133,7 @@
     - Features: Dynamic schema generation, Shopify app integration
   </li>
  </ul>
-*/
+-->
 <h2 align="center">🚀 Technical Projects</h2>
 
 <div align="center">
