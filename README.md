@@ -131,10 +131,39 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C3E6&center=true&vCenter=true&width=500&lines=Full-Stack+Engineering+Showcase;Django+%7C+Rails+%7C+React+%7C+AWS;8+Production+Systems+Deployed" alt="Header Animation">
 </div>
 
+---
+
+### 🐍 Django/DRF Ecosystem
+| Project | Description | Contributions | Tech Stack | Impact |
+|---------|-------------|---------------|------------|--------|
+| **[GanarPro](https://app.ganarpro.com)** | Combines a proprietary database of bidding and project data with construction-specific tools like prequalification, estimating, quoting, and pipeline management. | Developed the **marketplace**, **calculator**, **proposal creation**, **site visit sheet**, and **project research table** to fetch all projects. Added numerous features to make the platform more effective. | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-ff1709?logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) | 🚀 Enhanced platform efficiency and user experience |
+| **[MovSentry](https://app.movsentry.com)** | A phishing email training platform using Django-Tenants, where each tenant has its own settings and users. It trains users against phishing emails by sending simulated emails, tracking responses, assigning shields, and maintaining a leaderboard. | Developed the platform using the **Vuxey library**, implemented tenant-specific settings, email tracking, and leaderboard functionality. | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Django-Tenants](https://img.shields.io/badge/Django_Tenants-092E20?logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) | 🛡️ Improved user awareness of phishing threats |
+
+---
+
+### 💎 Ruby on Rails Ecosystem
+| Project | Description | Contributions | Tech Stack | Impact |
+|---------|-------------|---------------|------------|--------|
+| **Express Subscription Manager** | A Shopify subscription management system for handling recurring billing and subscription analytics. | Built the subscription engine, integrated with Shopify API, and implemented analytics dashboards. | ![Rails](https://img.shields.io/badge/Rails-CC0000?logo=rubyonrails&logoColor=white) ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) | 🔄 Processed 10k+ subscriptions |
+| **Supplier Sync Application** | A dropshipping inventory synchronization tool for managing inventory across multiple stores using a supplier-dropshipper model. | Developed the bi-directional sync engine, implemented conflict resolution, and integrated with third-party APIs. | ![Rails](https://img.shields.io/badge/Rails-CC0000?logo=rubyonrails&logoColor=white) ![Sidekiq](https://img.shields.io/badge/Sidekiq-35495C?logo=rubygems&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) | ⚡ Achieved 2s sync intervals |
+| **JSON-LD Schema Generator** | An SEO optimization tool for adding structured data to e-commerce stores. | Built the dynamic schema generation engine and integrated it with Shopify stores. | ![Rails](https://img.shields.io/badge/Rails-CC0000?logo=rubyonrails&logoColor=white) ![Liquid](https://img.shields.io/badge/Liquid-222222?logo=shopify&logoColor=white) ![SEO](https://img.shields.io/badge/SEO-0F9D58?logo=google&logoColor=white) | 📈 Boosted SEO scores by 40% |
+| **[CraftPositions](https://craftpositions.com)** | An online job opportunity platform with employer and candidate options. | Added the **Business Requirement Page** (similar to an Excel sheet) for managing job postings and candidate requirements. | ![Rails](https://img.shields.io/badge/Rails-CC0000?logo=rubyonrails&logoColor=white) ![Hotwire](https://img.shields.io/badge/Hotwire-222222?logo=rubyonrails&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) | 📊 Streamlined job posting management |
+
+---
+
+### 🚨 High-Performance Systems
+| Project | Description | Contributions | Tech Stack | Impact |
+|---------|-------------|---------------|------------|--------|
+| **La Beau POS Dashboard** | A shop management system with WhatsApp integration for inventory and notifications. | Developed the **inventory module** and **notification system**, integrated WhatsApp API. | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) | 📱 Handled 5k+ daily notifications |
+| **E-Medical Certificate Platform** | A digital medical certificate generation and verification system. | Built the **PDF generation engine** and **validation API**, implemented QR code verification. | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![PDFKit](https://img.shields.io/badge/PDFKit-FF0000?logo=pdf&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) | 🛡️ HIPAA-compliant design |
+| **Nawab Petrol Pump System** | A custom fuel station management solution for inventory tracking and pump monitoring. | Developed the **inventory tracking system** and **real-time pump monitoring dashboard**. | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) | ⛽ Deployed to 50+ stations |
+
+---
+
 ### 🛠️ Open Source Contributions
-[![GreaterWMS](https://img.shields.io/badge/GreaterWMS-Contributed-8A2BE2?style=for-the-badge)](https://github.com/GreaterWMS/GreaterWMS)  
-**Improvements**: Warehouse UI overhaul + report optimization  
-**Tech Impact**: 25% faster inventory reconciliation
+| Project | Description | Contributions | Tech Stack | Impact |
+|---------|-------------|---------------|------------|--------|
+| **Greater WMS Improvements** | An open-source warehouse management system. | Enhanced UI and optimized report generation. | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) | 📊 25% faster inventory reconciliation |
 
 
 <h2>🛠 Tech Stack</h2>
