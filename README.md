@@ -63,7 +63,7 @@
 <h2 align="center">🚀 Technical Projects</h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C3E6&center=true&vCenter=true&width=500&lines=Full-Stack+Engineering+Showcase;Django+%7C+Rails+%7C+React+%7C+AWS;8+Production+Systems+Deployed" alt="Header Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C3E6&center=true&vCenter=true&width=500&lines=Full-Stack+Engineering+Showcase;Django+%7C+Rails+%7C+React+%7C+AWS;More+than+10+Production+Systems+Deployed" alt="Header Animation">
 </div>
 
 ---
