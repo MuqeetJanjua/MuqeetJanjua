@@ -1,15 +1,25 @@
 <h1 align="center">Hi 👋, I'm Muqeet Ahmad</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | Cloud Enthusiast</h3>
+
+<p align="center">
+  <a href="https://muqeet-ahmad.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" /></a>
+  <a href="mailto:muqeetahmad25@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
+</p>
 
 <hr />
 
-<h2>🔥 About Me</h2>
-<ul>
-  <li>🔬 Currently working on <b>Management Softwares</b></li>
-  <li>💡 Passionate about <b>backend development, REST APIs, GraphQL, and cloud solutions</b></li>
-  <li>👥 Open to collaborating on <b>long-term projects</b></li>
-  <li>💌 Reach me at <b>muqeetahmad25@gmail.com</b></li>
-</ul>
+## 🚀 About Me
+
+- 🔭 I’m currently building **robust Management Systems** to streamline workflows and improve team productivity.  
+- 🌐 Skilled in **Full-Stack Development**, with a strong grip on **Django**, **React**, **PostgreSQL**, and **MongoDB**.  
+- 🧠 Always exploring **REST APIs**, **GraphQL**, **microservices**, and **cloud-native solutions** (AWS, Vercel).  
+- 🛠️ Love automating tasks, optimizing performance, and writing clean, maintainable code.  
+- 👥 Open to **collaborations**, especially on long-term or impactful projects.  
+- 💬 Let’s talk about architecture, SaaS solutions, or developer tools.
+- 📫 Reach me at: **muqeetahmad25@gmail.com**  
+- 🌍 Visit my personal website: [muqeet-ahmad.vercel.app](https://muqeet-ahmad.vercel.app)
+
+---
 
 <p><br/></p>
 
