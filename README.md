@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://muqeet-ahmad.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" /></a>
-  <a href="mailto:muqeetahmad25@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 <hr />
